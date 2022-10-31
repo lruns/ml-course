@@ -1,3 +1,5 @@
 # ml-course
-ДЗ для курса по машинному обучению
+
+Домашнее задание для курса Машинного Обучения.
+
 https://github.com/rustam-azimov/ml-course
